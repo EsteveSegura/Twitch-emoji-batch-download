@@ -1,0 +1,23 @@
+{
+  "name": "Twitch-emoji-batch-download",
+  "version": "1.0.0",
+  "description": "twitch emoji batch download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsteveSegura/Twitch-emoji-batch-download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsteveSegura/Twitch-emoji-batch-download/issues"
+  },
+  "homepage": "https://github.com/EsteveSegura/Twitch-emoji-batch-download#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
