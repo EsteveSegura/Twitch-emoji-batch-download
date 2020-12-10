@@ -21,7 +21,7 @@ async function sleep(ms) {
 }
 
 (async () => {
-    for (let i = 300002465; i < 303500000; i++){
+    for (let i = 2; i < 303500000; i++){
         console.log(`Descargando la imagen : ${i} ...`)
         await sleep(250)
         downloadSingleEmoji(`https://static-cdn.jtvnw.net/emoticons/v1/${i}/3.0`)
